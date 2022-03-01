@@ -13,3 +13,6 @@ for i in range(360):
     t.color(c)
     t.forward(i*2)
     t.left(145)
+
+
+

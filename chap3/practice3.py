@@ -47,3 +47,4 @@ print(python.find("Java"))  # -1 값을 반환 원하는 값이 없을 떄는 -1
 print('hi') # 46라인이 오류면 이 문장도 실행되지않고 에러
 
 print(python.count("n"))  # n이 몇개인가?
+
