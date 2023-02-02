@@ -15,4 +15,4 @@ for i in range(360):
     t.left(144)
     t.forward(i*5)
 
-    '''형준이별'''
+    '''형준사랑'''
